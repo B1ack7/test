@@ -16,6 +16,7 @@ import cn.lzh.ssm.service.UserService;
 @Controller
 @RequestMapping("/user")
 public class UserController {
+	//备注控制层测试
 	@Resource
 	private UserService userService;
 	
